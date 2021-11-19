@@ -3,15 +3,15 @@
   width: 64vh;
   display: grid;
   grid-template-columns: repeat(16, 4vh);
-  border: black 1px;
-  border-style: dashed;
+  /* border: black 1px;
+  border-style: dashed; */
 }
 
 .pixel {
   width: 4vh;
   height: 4vh;
-  border: black 1px;
-  border-style: dashed;
+  /* border: black 1px;
+  border-style: dashed; */
 }
 
 .red {
