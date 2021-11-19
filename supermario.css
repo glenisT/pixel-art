@@ -1,0 +1,43 @@
+.container {
+  height: max-content;
+  width: 64vh;
+  display: grid;
+  grid-template-columns: repeat(16, 4vh);
+  border: black 1px;
+  border-style: dashed;
+}
+
+.pixel {
+  width: 4vh;
+  height: 4vh;
+  border: black 1px;
+  border-style: dashed;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.skin {
+  background-color: rgb(233, 200, 158);
+}
+
+.hair {
+  background-color: rgb(175, 108, 63);
+}
+
+.boots {
+  background-color: rgb(95, 60, 37);
+}
