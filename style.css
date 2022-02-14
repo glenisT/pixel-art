@@ -1,10 +1,17 @@
+body
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .container {
   height: max-content;
   width: 64vh;
   display: grid;
   grid-template-columns: repeat(16, 4vh);
   /* border: black 1px;
-  border-style: dashed; */
+  border-style: dashed;  */
 }
 
 .pixel {
